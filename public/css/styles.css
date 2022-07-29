@@ -1,5 +1,6 @@
 body{
-    /* background-color: #F9F2ED; */
+    background-color: #FFF2F2;
+    
     overflow-wrap: break-word;
 }
 .container-fluid {
@@ -19,7 +20,7 @@ h1{
 .login-form{
     margin: 0 auto;
     margin-top: 60px;
-    background-color: #F9F2ED;
+    background-color: #FAD4D4;
     width: 650px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -46,7 +47,7 @@ section{
     margin-bottom: 0;
     font-size: 12px;
     letter-spacing: 5px;
-    background-color: #F9F2ED;
+    background-color: #FAD4D4;
 }
 .navbar-nav  li a:hover {
     color: #F87474 !important;
@@ -73,7 +74,3 @@ section{
   color: #fff;
 }
 
-/* .container{
-position: relative;
-   min-height: 100vh; 
-} */
